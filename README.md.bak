@@ -2,7 +2,6 @@
 practice assessment for simplilearn for selenium webdriver
 
 - Task for the data base, use the sql script to create database and single table.
-- Set a user name "operator" or use any, remember to update details on src/app/Constants/ (find us, ps) variables
 
 #sql script - Start
 
